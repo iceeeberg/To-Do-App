@@ -1,0 +1,29 @@
+body{
+  background-color: lightskyblue;
+  text-align: center;
+  font-size: 25px;
+}
+
+h2{
+  color: white;
+  font-family: inherit
+}
+
+p{
+  color: white;
+  font-style: oblique;
+}
+
+input.submit-button{
+  background-color: coral;
+  color: black;
+  font-style:inherit;
+  border: 5px solid coral;
+  display: inline-flex;
+  border-radius: 36px;
+}
+
+input.enter-task{
+  border-radius: 36px;
+  border: 10px solid white;
+}
