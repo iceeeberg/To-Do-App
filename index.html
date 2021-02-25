@@ -10,16 +10,17 @@
 
 <p>What would you like to accomplish?</p>
 
+
 <form>
   <label for="task"></label>
   <input class= "enter-task" type="text" id="task" name="task" placeholder="enter task..">
 
-  <br>
+  <ul class="todo" id=list></ul>
 
-<input class= "submit-button" type="button" value="Submit" onclick="return submit">
+<input id= "submit-button" type="button" value="Submit" onclick="return submit">
 </form>
 
-<ul class="todo" id=list></ul>
+<p>Click once to check off. Double click to delete task</p>
 
 <script src="script.js"></script>
 

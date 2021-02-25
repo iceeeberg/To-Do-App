@@ -14,7 +14,7 @@ p{
   font-style: oblique;
 }
 
-input.submit-button{
+input#submit-button{
   background-color: coral;
   color: black;
   font-style:inherit;
@@ -27,3 +27,5 @@ input.enter-task{
   border-radius: 36px;
   border: 10px solid white;
 }
+
+ul{text-align: center;}
