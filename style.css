@@ -23,7 +23,7 @@ input#submit-button{
   border-radius: 36px;
 }
 
-input.enter-task{
+input.enter-todo{
   border-radius: 36px;
   border: 10px solid white;
 }
