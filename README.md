@@ -4,7 +4,7 @@ A To-Do list application created with HTML, CSS, and JavaScript.
 
 ### Click [here](https://iceeeberg.github.io/To-Do-App/) to check out the app.
 
-!(To_Do.png)
+!(To-Do.png)
 
 ## Summary
 
