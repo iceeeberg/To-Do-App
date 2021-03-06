@@ -12,4 +12,4 @@ As a programmer it was a right of a passage for me to create my own To-Do applic
 
 ## Author
 
-Dante Leeseberg - Full Stack Software Devoloper [LinkedIn](linkedin.com/in/dante-leeseberg-bba05883)
+Dante Leeseberg - Full Stack Software Devoloper [LinkedIn](https://www.linkedin.com/in/dante-leeseberg-bba05883/)
